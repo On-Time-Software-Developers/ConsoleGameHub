@@ -8,6 +8,7 @@ Repository for explorations of software development
 This project is a collaborative software development platform
 designed for undergraduate CS students, featuring a
 console-based arcade of classic and logic-driven games.
+my change!
 
 It is intended to help students practice software
 development principles (such as, agile development,
