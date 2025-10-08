@@ -1,6 +1,4 @@
 import java.util.Optional;
-//test comment
-// 2nd Ttest
 /**
  * Interface representing a generic game in the arcade.
  * @version 1
